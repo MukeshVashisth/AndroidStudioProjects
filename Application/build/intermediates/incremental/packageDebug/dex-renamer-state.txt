@@ -1,0 +1,7 @@
+#Fri Nov 11 23:56:53 IST 2016
+base.0=C\:\\Users\\kumarm\\AndroidStudioProjects\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_70ab2f580178399681d5f6e461e80518a6fb65ed
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\kumarm\\AndroidStudioProjects\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_016d31e20ec3bd4530364b24feb2dd2b8c9889c8\\classes.dex
+base.1=C\:\\Users\\kumarm\\AndroidStudioProjects\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_016d31e20ec3bd4530364b24feb2dd2b8c9889c8
+file.0=C\:\\Users\\kumarm\\AndroidStudioProjects\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_70ab2f580178399681d5f6e461e80518a6fb65ed\\classes.dex
